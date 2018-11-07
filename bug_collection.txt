@@ -1,0 +1,1 @@
+1. SanxiUI_function 行为：点击connect按钮，程序偶见卡死异常退出

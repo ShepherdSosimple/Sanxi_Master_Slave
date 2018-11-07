@@ -1,0 +1,32 @@
+name: communi
+channels:
+  - defaults
+dependencies:
+  - certifi=2018.8.24=py35_1
+  - pip=10.0.1=py35_0
+  - python=3.5.6=he025d50_0
+  - setuptools=40.2.0=py35_0
+# - vc=14.1=h0510ff6_3
+# - vs2015_runtime=15.5.2=3
+  - wheel=0.31.1=py35_0
+  - wincertstore=0.2=py35hfebbdb8_0
+  - xlrd=1.1.0=py35_1
+  - xlutils=2.0.0=py35_0
+  - xlwt=1.3.0=py35hd04410a_0
+  - pip:
+    - vc==14.1=h0510ff6_3
+    - vs2015_runtime==15.5.2=3
+    - altgraph==0.16.1
+    - future==0.16.0
+    - macholib==1.11
+    - pefile==2018.8.8
+    - pyinstaller==3.4
+    - pyqt5==5.11.2
+    - pyqt5-sip==4.19.12
+    - pyqt5-tools==5.9.0.1.2
+    - pyserial==3.4
+    - pywin32-ctypes==0.2.0
+    - sip==4.19.8
+    - wmi==1.4.9
+prefix: C:\Users\MrSosimple\Anaconda3\envs\communi
+
